@@ -1,0 +1,19 @@
+hai-movie-tv/
+│
+├── .github/
+│   └── workflows/
+│       └── build.yml
+│
+├── app/
+│   ├── build.gradle.kts
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           └── java/
+│               └── com/
+│                   └── haimovie/
+│                       └── tv/
+│                           └── MainActivity.kt
+│
+├── build.gradle.kts
+└── settings.gradle.kts
